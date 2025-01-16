@@ -15,7 +15,7 @@ Features
 
 How to Use
 ======
-	1.	Open the script in Script Editor (or run it via osascript).
+	1.	Open the script in Script Editor (or pust it to Automator).
 	2.	Enter your Roku IP address when prompted.
 	3.	The script captures and downloads the screenshot, saving it as RokuIP_Timestamp.jpg in the Downloads folder.
 	4.	The Downloads folder opens automatically for easy access.
